@@ -165,7 +165,7 @@ const Footer = () => (
     <div className="flex flex-col md:flex-row justify-between items-center gap-8">
       <div className="flex flex-col gap-2">
         <span className="font-black text-indigo-950 text-xl">The Editorial Stage</span>
-        <p className="text-[10px] uppercase tracking-widest text-slate-400">© 2024 The Editorial Stage. All rights reserved.</p>
+        <p className="text-[10px] uppercase tracking-widest text-slate-400">© 2026 The Editorial Stage. All rights reserved.</p>
       </div>
       <div className="flex gap-8">
         {['About Us', 'Safety', 'Booking Terms', 'Privacy'].map((item) => (
