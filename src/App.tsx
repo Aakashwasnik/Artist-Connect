@@ -1086,7 +1086,7 @@ const RegisterPage = () => {
             `https://picsum.photos/seed/${formData.name}1/800/800`,
             `https://picsum.photos/seed/${formData.name}2/800/800`
           ],
-          portfolioVideos: [],
+          portfolioVideos: [], 
           reviews: []
         };
 
