@@ -1090,7 +1090,7 @@ const RegisterPage = () => {
           reviews: []
         };
 
-        // Try to save to backend
+        // Try to save to backend 
         try {
           await fetch(`/api/artists/${data.user.id}`, {
             method: 'PUT',
