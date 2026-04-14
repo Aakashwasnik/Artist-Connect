@@ -1735,7 +1735,7 @@ const ArtistDetailsPage = () => {
 
                 {/* Reviews List */}
                 <div className="space-y-6">
-                  {artist.reviews && artist.reviews.length > 0 ? (
+                  {artist.reviews && artist.reviews.length > 0 ? ( 
                     artist.reviews.map((review: any) => (
                       <div key={review.id} className="border-b border-slate-100 pb-6 last:border-0">
                         <div className="flex justify-between items-start mb-2">
