@@ -1620,7 +1620,7 @@ const ArtistDetailsPage = () => {
                 )}
               </form>
             </motion.div>
-          </div>
+          </div> 
         )}
       </AnimatePresence>
 
