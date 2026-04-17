@@ -1881,7 +1881,7 @@ const ArtistDetailsPage = () => {
                   <div className="flex gap-4">
                     <div className="flex items-center gap-1.5">
                       <div className="w-2 h-2 rounded-full bg-indigo-600" />
-                      <span className="text-[9px] font-black uppercase tracking-widest text-slate-400">Booked</span>
+                      <span className="text-[9px] font-black uppercase tracking-widest text-slate-400">Booked</span> 
                     </div>
                     <div className="flex items-center gap-1.5">
                       <div className="w-2 h-2 rounded-full bg-red-100" />
