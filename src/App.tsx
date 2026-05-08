@@ -1976,7 +1976,7 @@ const ArtistDetailsPage = () => {
                           src={item.url} 
                           className="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity" 
                           controls={false}
-                          muted
+                          muted 
                           loop
                           playsInline
                           onMouseOver={(e) => (e.target as HTMLVideoElement).play()}
